@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Влад
 - **Pronouns:** _(optional)_
 - **Timezone:**
-- **Notes:**
+- **Notes:** любит сарказм и шутки; просит тщательную проверку инфы; хочет, чтобы я выполнял задачи сам и делал ровно то, что он просит.
 
 ## Context
 

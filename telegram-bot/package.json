@@ -1,0 +1,16 @@
+{
+  "name": "your-prognoz-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "grammy": "^1.35.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

@@ -13,7 +13,7 @@ const bot = new Bot(token);
 bot.command('start', async (ctx) => {
   await ctx.reply('Твой Прогноз 🐅\nОткрыть мини‑апку:', {
     reply_markup: {
-      inline_keyboard: [[{ text: 'Открыть', web_app: { url: 'https://your-prognoz.onrender.com' } }]],
+      inline_keyboard: [[{ text: 'Открыть', web_app: { url: 'https://your-prognoz-1.onrender.com' } }]],
     },
   });
 });
